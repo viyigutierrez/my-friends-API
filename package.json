@@ -1,0 +1,23 @@
+{
+  "name": "my-friends-api",
+  "version": "1.0.0",
+  "description": "Repaso Express Henry",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viyigutierrez/my-friends-API.git"
+  },
+  "author": "Vivian Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viyigutierrez/my-friends-API/issues"
+  },
+  "homepage": "https://github.com/viyigutierrez/my-friends-API#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

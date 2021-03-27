@@ -22,6 +22,6 @@ const server = http.createServer((request, response) => {
 
 
 
-server.listen(3000, ()=>{
-console.log("Servidor operativo en puerto 3000")
+server.listen(3072, ()=>{
+console.log("Servidor operativo en puerto 3072")
 });
